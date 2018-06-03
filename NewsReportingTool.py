@@ -1,7 +1,4 @@
-# Database code for the DB Forum.
-# 
-# This is NOT the full solution!
-
+# Database code for the News DataBase .
 import psycopg2
 from datetime import datetime
 
