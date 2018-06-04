@@ -1,0 +1,26 @@
+Top 3 articles viewed all time
+
+
+Article Name      |     Views    
+candidate-is-jerk -- 338647
+bears-love-berries -- 253801
+bad-things-gone -- 170098
+
+
+Top authors viewed all time
+
+
+Author Name    |   Views  
+Ursula La Multa -- 507594
+Rudolf von Treppenwitz -- 423457
+Anonymous Contributor -- 170098
+Markoff Chaney -- 84557
+
+
+Days with an error rate >= 1%
+
+
+Error Date    | Rate of error  
+July 17, 2016 | 2.26%
+
+
