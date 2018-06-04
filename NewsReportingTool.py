@@ -17,7 +17,7 @@ def report_articles():
     print("\n")
     print("Article Name      |     Views    ")
     for i in reportArticles:
-        print(str(i[1]) + ' -- ' + str(i[2]))
+        print(str(i[0]) + ' -- ' + str(i[1]))
     print("\n")
     db.close()
     return reportArticles
